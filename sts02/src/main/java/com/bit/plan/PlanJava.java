@@ -8,12 +8,11 @@ public class PlanJava {
 	public static void main(String[] args) {
 		
 //		Remote remote = new Remote(new Tv());
+		
+//		Remote remote = new Remote();
 //		remote.setRemote(new Tv());
-		
-		Remote remote = new Remote();
-		
-		remote.setRemote(new Tv());
-		remote.func3();
+
+//		remote.func3();
 	}
 
 }
